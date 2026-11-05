@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- M.Soles: deep red block with white M mark -->
+  <polygon points="0,0 32,0 32,23 23,32 0,32" fill="#8B0000"/>
+  <path d="M5 25V7h4.6l5.6 8.6L21.4 7H26v18h-3.6v-11l-5 7.6h-2.8l-5-7.6V25z" fill="#fff"/>
+</svg>
