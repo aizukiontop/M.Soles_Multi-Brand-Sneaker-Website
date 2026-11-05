@@ -6,6 +6,9 @@ Built with React and TypeScript, the platform provides a modern shopping experie
 
 **Live Demo:** https://mdsoles.netlify.app/
 
+![A screenshot of the main screen](msoles1.png)
+![A screenshot of the main screen](msoles2.png)
+
 ## Features
 
 - **Multi-Brand Sneaker Catalog** — Browse sneakers from popular footwear brands.
